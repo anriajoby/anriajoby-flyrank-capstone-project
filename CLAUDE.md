@@ -24,3 +24,11 @@ This is a capstone project for a Front-End AI Engineering internship track.
 - Use Conventional Commit messages.
 - Keep commits small and focused.
 - Do not commit sensitive information such as API keys or environment files.
+
+## Project Workflow
+
+- Check existing code before making changes.
+- Prefer simple and maintainable solutions.
+- Keep README.md updated when project details change.
+- Use Conventional Commit messages for Git history.
+- Do not add unnecessary dependencies without a reason.
