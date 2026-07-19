@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment variables (keep secrets private)
+.env
+.env.*
+
+# Build output
+dist/
+build/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
