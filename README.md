@@ -4,11 +4,11 @@
 
 ## Overview
 
-This repository contains the setup and development of my capstone project for the Front-End AI Engineering internship. The project is currently in the setup phase, and the application requirements and technology stack will be finalized as the internship progresses.
+This repository contains the development of my capstone project for the Front-End AI Engineering internship. The project has moved from the setup phase into initial development experiments. The application requirements and final technology choices will continue to evolve as the internship progresses.
 
 ## Status
 
-The project is currently being set up. More instructions will be added as development progresses.
+The project is currently in the early development phase. Initial experiments are being completed to establish AI-assisted development workflows, coding practices, and project structure.
 
 ## Technologies
 
@@ -19,10 +19,13 @@ The project is currently being set up. More instructions will be added as develo
 * Node.js
 * npm
 * Cursor
+* React
+* TypeScript
+* Vite
 
 ### Planned
 
-* Front-end framework (TBD)
+* Final capstone architecture (TBD)
 * Additional project technologies (TBD)
 
 ## Getting Started
@@ -31,17 +34,26 @@ The project is currently being set up. More instructions will be added as develo
 
 * Node.js (LTS)
 * Git
-* Cursor 
+* Cursor
 
 ### Setup
 
 1. Clone the repository.
-2. Install project dependencies once they are added:
-   npm install
-3. Run the development server (to be added during project development).
+2. Install project dependencies:
+
+npm install
+
+3. Run the development server:
+
+npm run dev
 
 ## Project Structure
+
 .
+├── src
+├── public
+├── package.json
+├── package-lock.json
 ├── README.md
 ├── LICENSE
 ├── .gitignore
@@ -58,7 +70,9 @@ For AI assistant instructions and development guidelines, see `CLAUDE.md`.
 * [x] Set up development environment
 * [x] Create GitHub repository
 * [x] Configure Git
-* [ ] Choose project framework
+* [x] Create initial front-end development environment
+* [ ] Complete AI-assisted development workflow experiment
+* [ ] Choose final capstone architecture
 * [ ] Implement the capstone project
 * [ ] Document deployment
 
