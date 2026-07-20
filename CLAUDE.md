@@ -32,3 +32,9 @@ This is a capstone project for a Front-End AI Engineering internship track.
 - Keep README.md updated when project details change.
 - Use Conventional Commit messages for Git history.
 - Do not add unnecessary dependencies without a reason.
+
+## Learned Project Rules
+
+- Validate user input before saving data. Form submissions should not persist invalid settings.
+- Keep validation logic separated from UI components so rules can be tested independently.
+- Run automated tests after AI-generated changes and review failures before accepting the implementation.
