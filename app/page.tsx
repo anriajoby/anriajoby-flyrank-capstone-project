@@ -5,7 +5,7 @@ export default function HomePage() {
     <main>
       <h1>AI Frontend Capstone</h1>
       <p>
-        A foundation for an AI-enhanced frontend application.
+      A foundation for an AI-enhanced frontend application — Foundations phase.
       </p>
 
       <section>
