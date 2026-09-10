@@ -4,6 +4,7 @@ node_modules/
 # Environment variables (keep secrets private)
 .env
 .env.*
+!.env.example
 
 # Build output
 dist/
