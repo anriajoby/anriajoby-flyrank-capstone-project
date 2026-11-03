@@ -5,7 +5,7 @@ import { google } from "@ai-sdk/google";
 // Centralized Gemini model configuration.
 // The Google provider reads GOOGLE_GENERATIVE_AI_API_KEY
 // from the server-side environment variables.
-export const model = google("gemini-2.5-flash");
+export const model = google.interactions("gemini-3.5-flash-lite");
 
 // Main instructions for TripTale's AI travel assistant.
 export const systemPrompt = `
